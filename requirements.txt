@@ -3,3 +3,10 @@ numpy
 matplotlib
 tensorflow
 ta
+seaborn
+tensorflow 
+sklearn
+seaborn 
+numpy 
+matplotlib
+hvplot

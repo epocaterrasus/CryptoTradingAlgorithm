@@ -6,9 +6,9 @@
 ##Presentation_CUBtcamp_Project2_To the Moon LLC..pdf
 
 # !Before running  make sure these file are included
-## downloader.ipynb
-## utils.py
-## requirements.txt
+# downloader.ipynb
+# utils.py
+# requirements.txt
 
 #Run main.v3 if you are jupyter notebook or google collab user
 

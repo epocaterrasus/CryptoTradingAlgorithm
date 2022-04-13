@@ -13,7 +13,7 @@
 # Run main.v3 if you are jupyter notebook or google collab user<br/>
 
 # Run main.v2 vast ai GPU version. Alternative to Amazon Aws. <br/>
-<!-- low-cost, on-demand GPU rental. Use one simple interface to save 5-6X on GPU compute. <br/>
-Need register https://vast.ai/?gclid=CjwKCAjw6dmSBhBkEiwA_W-EoJKsK3_-pzd0QRcuzrOoTNswjZ8f_qluwANrLZ6FSj5vM_e8YQbhhxoC0nsQAvD_BwE  --><br/>
+#low-cost, on-demand GPU rental. Use one simple interface to save 5-6X on GPU compute. <br/>
+Need register https://vast.ai/?gclid=CjwKCAjw6dmSBhBkEiwA_W-EoJKsK3_-pzd0QRcuzrOoTNswjZ8f_qluwANrLZ6FSj5vM_e8YQbhhxoC0nsQAvD_BwE <br/>
 
 

@@ -1,9 +1,9 @@
 # CryptoTradingAlgorithm <br/>
 
 # Readme file: <br/>
-##check Project2_Readme.pdf or Project2_Readme.pptx (Project Introduction/ Methods/ Requirements for running the model are included)<br/>
+#check Project2_Readme.pdf or Project2_Readme.pptx (Project Introduction/ Methods/ Requirements for running the model are included)<br/>
 # Presentation file: <br/>
-##Presentation_CUBtcamp_Project2_To the Moon LLC..pdf<br/>
+#Presentation_CUBtcamp_Project2_To the Moon LLC..pdf<br/>
 
 # !Before running  make sure these file are included<br/>
 #downloader.ipynb<br/>

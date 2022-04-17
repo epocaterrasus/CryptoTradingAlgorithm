@@ -22,20 +22,29 @@ We acquired our data using the KuCoin API database to acquire Open, High, Low, C
 
 ## Installation and User Guide
 
-For you convenience, all necessary libraries are pre-installed in the Notebook, however if you wish to install them in your local machine you can run the following command:
-```pip install requirements.txt```
+The main jupyter notebook contains in the top cell, two terminal commands to download the required libraries in the machine you're launching the notebook on:
+```
+!python -m pip install --upgrade pip
+!pip install -r './requirements.txt'
+```
+If you're running the code locally and this doesn't work, just install the required libraries from your terminal in your environment of choice:
+```pip install -r requirements.txt```
 
 ### Download Repository
 
-To download the project repository please run the following command in your GitBash window:
+To download the project repository please run the following command in your GitBash window located in a directory of choice:
 ``` git clone https://github.com/epocaterrasus/CryptoTradingAlgorithm.git ```
 
-### Launching the Application
+### Launching the Application locally
 
 To launch the application, run the following command in GitBash (inside the main folder of the repo).
 ```jupyter lab```
 
 Locate the ```main_v2_vast.ipynb``` within Jupyter Lab and start exploring our project!
+
+### Launching the Application on Vast.ai
+
+Log in into your Vast.ai account and dive into the console which should look like this:
 
 ## What we want to figure it out?
 

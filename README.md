@@ -52,6 +52,10 @@ Locate the ```main_v2_vast.ipynb``` within Jupyter Lab and start exploring our p
 * Model Creation - Secuential Model
 * Tuning - Changing number of components, adjusting lookback window
 
+## Model Summary
+
+![image](https://user-images.githubusercontent.com/94983278/163725567-a98a7a8f-3081-4369-9ef2-810b48997886.png)
+
 
 ## Detailed Powerpoint/PDF of our Iterations in Creating and Adjusting the Model
 
@@ -60,12 +64,46 @@ Locate the ```main_v2_vast.ipynb``` within Jupyter Lab and start exploring our p
 ### Presentation file: <br/>
 * Presentation_CUBtcamp_Project2_To the Moon LLC..pdf<br/>
 
-* Before running  make sure these file are included<br/>
-#downloader.ipynb<br/>
-#utils.py<br/>
-#requirements.txt<br/>
+## Contributors
 
-# Run main.v3 if you are jupyter notebook or google collab user<br/>
+Edgar Pocaterra 
+
+Antonio Parolini
+
+Michael Adut
+
+Meina Bian
+
+Maxwell Snyder
+
+---
+
+## License
+
+MIT License
+
+Copyright (c) 2022 epocaterrasus
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+
 
 
 

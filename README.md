@@ -46,6 +46,22 @@ Locate the ```main_v2_vast.ipynb``` within Jupyter Lab and start exploring our p
 
 Log in into your Vast.ai account and dive into the console which should look like this:
 
+<img width="957" alt="vast_console" src="https://user-images.githubusercontent.com/86806855/163726265-c4cfb641-6024-4a17-bff2-39d1719adbcf.PNG">
+
+Before renting the machine for the job you should select the parameters you prefer with the sliders on the left, then click on "Edit Image & Config". The following window should pop up:
+
+<img width="614" alt="Edit_image" src="https://user-images.githubusercontent.com/86806855/163726316-6bf88c72-56ae-4af0-b1f8-a582f7af6d44.PNG">
+
+Select Tensorflow as docker image and select the first option "Run a jupyter-python notebook". Press select and next you can move on renting one machine of those listed. 
+P.S.: This code is written to run on a single-GPU mode, hence renting more than one is not suggested.
+
+After you rented your machine go to instances on the left and click the connect button once the machine is ready. This will open another window with a jupyter notebook where you can upload the files needed, which are:
+
+- main_v2_cast.ipynb
+- requirements.txt
+- downloader.ipynb
+- utils.py
+
 ## What we want to figure it out?
 
 * Can we generate alpha in cryptocurrency trading by using technical analysis indicators?
@@ -110,9 +126,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
 
 
 

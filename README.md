@@ -81,13 +81,9 @@ After you rented your machine go to instances on the left and click the connect 
 
 ![image](https://user-images.githubusercontent.com/94983278/163725567-a98a7a8f-3081-4369-9ef2-810b48997886.png)
 
+## Model with 3 principal components, window size 10 days, 1000 epochs of training
 
-## Detailed Powerpoint/PDF of our Iterations in Creating and Adjusting the Model
-
-### ReadMe file: <br/>
-* check Project2_Readme.pdf or Project2_Readme.pptx (Project Introduction/Process/Model Result/ Requirements for running the model are included)<br/>
-### Presentation file: <br/>
-* Presentation_CUBtcamp_Project2_To the Moon LLC..pdf<br/>
+![Overlay_plot_1000_ep](https://user-images.githubusercontent.com/86806855/163728135-fd3d1c4a-2646-447e-9782-42f9a535e86e.png)
 
 ## Contributors
 
